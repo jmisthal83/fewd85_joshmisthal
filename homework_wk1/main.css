@@ -1,0 +1,11 @@
+header{
+    	font-family: helvetica
+    }
+
+hr{
+		margin-top: 1em; margin-bottom: 3em;
+	}
+a{		font-family: helvetica;
+		font-weight: bold;
+		color: black;
+	}
