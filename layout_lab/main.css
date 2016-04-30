@@ -1,0 +1,49 @@
+.wrapper {
+
+}
+
+.main-nav {
+  background-color: #ccc;
+  height: 500px;
+  position: relative;
+  padding: 10px; 
+  font-family: sans-serif;
+}
+
+.main-nav .top-nav {
+  background-color: #ffc;
+}
+
+.main-nav .top-nav ul > li {
+  display: inline-block;
+  padding: 0 10px;
+
+}
+
+.articles {
+  background-color: #eee;
+  display: inline-block;
+  height: 500px;
+  width: 100%;
+}
+
+.sidebar {
+  background-color: #eee;
+  display: inline-block;
+  height: 500px;
+  width: 49%;
+}
+
+.copyright {
+  background-color: #fcf;
+  display: inline-block;
+  height: 200px;
+  width: 100%;
+
+}
+
+.insertclass {
+  background-image: url("myimage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
