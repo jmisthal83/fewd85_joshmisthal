@@ -121,6 +121,7 @@ h2 {
   font-size: 40px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 600;
+  line-height: 1.2;
   color: #033048;
 }
 
@@ -154,6 +155,8 @@ h2 {
 .readmore a {
   color: #606161;
   font-weight: 600;
+  background-color: #f9e42e;
+  padding: 3px;
 }
 
 .side_content {
@@ -204,6 +207,7 @@ h3 {
   background-color: #f9e42e;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-top: 50px;
 }
 
 .button_cta {
@@ -223,6 +227,7 @@ h3 {
 
 footer {
   background-color: #121212;
+  text-align: center;
 
 }
 
@@ -241,11 +246,11 @@ footer {
   text-align: center;
 }
 
-nav div {
-  margin-left: 10px;
-  margin-right: 20px;
+footer ul li {
   display: inline-block;
-
+  list-style: none;
+  margin: 25px;
+  padding-top: 20px;
 }
 
 .social_media {
@@ -254,7 +259,7 @@ nav div {
 }
 
 #copyright {
-  font-size: 9px;
+  font-size: 12px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #ffffff;
